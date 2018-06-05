@@ -1,0 +1,108 @@
+.icerikhr{
+    width:100%;
+    border:1px dashed black
+}
+.menucizgi{
+    width:100%;
+    border:1px dashed white;
+}
+body{
+    color: white
+}
+footer {
+    background: black;
+    min-height: 50px; 
+}
+h2{
+    text-align: center;
+}
+.banner {
+    border-bottom: 3px solid DarkBlue;
+    background-color: black!important
+}
+.acanbuton {
+    border-radius:5px;
+    float: right;
+    background: black;
+    border:1px solid white;
+    color: white;
+    font-size: 20px;  
+}
+.acanbuton:focus {
+    background: black;
+    border:1px solid white;
+    color: white;
+    font-size: 20px;  
+}
+.acilandiv {
+    text-align: center;
+    height: auto;
+    width: 100%;
+    background: DarkBlue;
+ 
+}
+.acilandiv ul {
+    list-style: none;
+}
+.acilandiv ul li {
+    padding-bottom: 10px;
+}
+.acilandiv ul li h2 {
+    color: white;
+    padding-top: 20px;
+}
+.acilandiv ul li a {
+    margin-right:20px;
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    
+}
+.harita a {
+    padding: 0px;
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    
+}
+
+.kisiselbilgi{
+    border-left:2px solid black;
+}
+.yazi{
+    margin-left:10px;
+    float: left;
+    padding-top:20px;
+    font-family:arial;
+}
+.icerikbaslik{
+    font-size:30px;
+    padding-left:10px; 
+}
+ .konum{
+    padding-top:10px;
+    padding-left:7px;
+    font-size:15px;
+ }
+.adres{
+    font-family:arial;
+    font-size:20px;
+    padding-left:10px; 
+}
+.kisim{
+    font-size:30px;
+    padding-left:10px; 
+}
+.content{
+    color:black;
+}
+.video{
+    padding-right:40px;
+    padding-top: 50px;
+    
+}
+.sagdiv{ 
+    padding: 0px;
+    border:1px solid black;
+}
+
